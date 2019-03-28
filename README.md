@@ -17,3 +17,5 @@ To check the status of loading the data into the endpoint, run:
 When the data is done loading you will see the message:
 `temp data deleted`
 
+The link of the nt files is provided in /data/gdown.pl, you can change the nt files link by changing the link in line 19 in /data/gdown.pl
+
